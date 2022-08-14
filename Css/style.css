@@ -216,6 +216,9 @@ img{
     margin-top: 20px;
     
 }
+.fa-phone a{
+    text-decoration: none;
+}
 .contact-icons{
     margin-top:20px ;
     text-align: center;
